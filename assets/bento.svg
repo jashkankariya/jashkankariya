@@ -33,12 +33,12 @@ text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Ne
 
 <rect x="0" y="0" width="484" height="340" rx="30" fill="#1d1d1f" stroke="#fff" stroke-opacity=".08"/>
 <text class="k" x="34" y="56">Currently exploring</text>
-<text class="big" x="34" y="110">Learning how</text>
+<text class="big" x="34" y="110">How</text>
 <text class="big" x="34" y="156" fill="url(#ai)" style="fill:url(#ai)">machines learn.</text>
 <line class="e" x1="70" y1="240" x2="190" y2="232" style="animation-delay:-0.00s"/><line class="e" x1="70" y1="240" x2="190" y2="276" style="animation-delay:-0.37s"/><line class="e" x1="70" y1="240" x2="190" y2="320" style="animation-delay:-0.74s"/><line class="e" x1="70" y1="290" x2="190" y2="232" style="animation-delay:-1.11s"/><line class="e" x1="70" y1="290" x2="190" y2="276" style="animation-delay:-1.48s"/><line class="e" x1="70" y1="290" x2="190" y2="320" style="animation-delay:-1.85s"/><line class="e" x1="190" y1="232" x2="310" y2="245" style="animation-delay:-2.22s"/><line class="e" x1="190" y1="232" x2="310" y2="295" style="animation-delay:-2.59s"/><line class="e" x1="190" y1="276" x2="310" y2="245" style="animation-delay:-2.96s"/><line class="e" x1="190" y1="276" x2="310" y2="295" style="animation-delay:-3.33s"/><line class="e" x1="190" y1="320" x2="310" y2="245" style="animation-delay:-3.70s"/><line class="e" x1="190" y1="320" x2="310" y2="295" style="animation-delay:-4.07s"/><line class="e" x1="310" y1="245" x2="430" y2="270" style="animation-delay:-4.44s"/><line class="e" x1="310" y1="295" x2="430" y2="270" style="animation-delay:-4.81s"/><circle class="n" cx="70" cy="240" r="7" style="animation-delay:-0.0s"/><circle class="n" cx="70" cy="290" r="7" style="animation-delay:-0.5s"/><circle class="n" cx="190" cy="232" r="7" style="animation-delay:-1.0s"/><circle class="n" cx="190" cy="276" r="7" style="animation-delay:-1.5s"/><circle class="n" cx="190" cy="320" r="7" style="animation-delay:-2.0s"/><circle class="n" cx="310" cy="245" r="7" style="animation-delay:-2.5s"/><circle class="n" cx="310" cy="295" r="7" style="animation-delay:-3.0s"/><circle class="n" cx="430" cy="270" r="7" style="animation-delay:-3.5s"/>
 
 <rect x="500" y="0" width="500" height="162" rx="30" fill="#1d1d1f" stroke="#fff" stroke-opacity=".08"/>
-<text class="md" x="34" y="0" transform="translate(500 68)">2nd year, MBA Tech in AI</text>
+<text class="md" x="34" y="0" transform="translate(500 68)">3rd year, MBA Tech in AI</text>
 <text class="k" x="534" y="104">MPSTME, NMIMS</text>
 
 <rect x="500" y="178" width="242" height="162" rx="30" fill="#1d1d1f" stroke="#fff" stroke-opacity=".08"/>
