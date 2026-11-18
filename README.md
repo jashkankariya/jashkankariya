@@ -23,13 +23,13 @@
 <br>
 
 <div align="center">
-  <img src="assets/stack.svg" alt="Tech stack: Python, C, Java, Arduino, HTML, CSS, JavaScript, MySQL, MongoDB, Railway, iOS, Windows, Sublime Text, Arduino IDE, VS Code, Jupyter, Canva Pro, Adobe, Final Cut Pro, OBS Studio" width="100%">
+  <img src="assets/stack.svg" alt="Tech stack: Python, C, C++, Java, Arduino, HTML, CSS, JavaScript, MySQL, MongoDB, Railway, iOS, Windows, Sublime Text, Arduino IDE, VS Code, Jupyter, Canva Pro, Adobe, Final Cut Pro, OBS Studio" width="100%">
 </div>
 
 ## Tech stack
 
-- 💻 **Languages:** Python, C, Java, Arduino
+- 💻 **Languages:** Python, C++, C, Java, Arduino
 - 🌐 **Web and platforms:** iOS, Windows, HTML, CSS, JavaScript
 - 🛢 **Data and hosting:** MySQL, MongoDB, Railway
-- 🔧 **Editors and tools:** Sublime Text, Arduino IDE, Visual Studio Code, Jupyter
+- 🔧 **Editors and tools:** Visual Studio Code, Sublime Text, Arduino IDE, Jupyter
 - 🖥 **Creative:** Canva Pro, Adobe, Final Cut Pro, OBS Studio
